@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   justify-content: center;
+   height: 100vh;
+   background-color:gray;
+
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+    align-items: center;
+    margin: top;
+    border: 2px solid black;
+    height: 400px;
+    width:400px;
+    border-radius: 20px;
+    text-align: center; 
+}
+
+h1{
+    text-align: center;
+    
+}
+
+input{
+    border-radius:20px;
+}
